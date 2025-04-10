@@ -20,9 +20,18 @@ body {
   left: 102px;
   top: 10px;
 }
-
 .btnsHengelo{
   position: fixed;
   left: 160px;
   top: 10px;
+}
+.btnsStreetmap{
+  position: fixed;
+  left: 50px;
+  top: 40px;
+}
+.btnsSatellitemap{
+  position: fixed;
+  left: 134px;
+  top: 40px;
 }
